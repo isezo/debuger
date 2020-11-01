@@ -1,0 +1,6 @@
+C:\Users\isezo\Desktop\KizhiPart3.csproj\bin\Debug\KizhiPart3.exe.config
+C:\Users\isezo\Desktop\KizhiPart3.csproj\bin\Debug\KizhiPart3.exe
+C:\Users\isezo\Desktop\KizhiPart3.csproj\bin\Debug\KizhiPart3.pdb
+C:\Users\isezo\Desktop\KizhiPart3.csproj\obj\Debug\KizhiPart3.csprojAssemblyReference.cache
+C:\Users\isezo\Desktop\KizhiPart3.csproj\obj\Debug\KizhiPart3.exe
+C:\Users\isezo\Desktop\KizhiPart3.csproj\obj\Debug\KizhiPart3.pdb
